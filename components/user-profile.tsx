@@ -4,11 +4,11 @@ import { User, Mail, Phone, MapPin, Edit2 } from "lucide-react"
 
 export default function UserProfile() {
   const userProfile = {
-    name: "Sarah Johnson",
-    email: "sarah.johnson@email.com",
-    phone: "+1 (555) 123-4567",
-    address: "San Francisco, CA 94105",
-    emergencyContact: "Mom - 555-987-6543",
+    name: "Beeenita Bhatt",
+    email: "beenitabhatt@email.com",
+    phone: "+91 9410553215",
+    address: "Haldwani, Nainital, Uttarakhand",
+    emergencyContact: "Mom - +91 9410553215",
     joinDate: "January 15, 2024",
   }
 
